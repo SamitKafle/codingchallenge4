@@ -1,0 +1,14 @@
+---
+title: "coding challenge4"
+author: "Samit Kafle"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Definition
+a. **YAML Header:** It is the structural block that defines metadata such as title, authors, date, outputformat and other document settings.
+
+b. **Literate Programming:** It is the method that combines a programming language with a documentation language that makes it easy to understand what is being executed.
+
+
+
